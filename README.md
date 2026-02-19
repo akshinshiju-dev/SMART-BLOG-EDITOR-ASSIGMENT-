@@ -182,3 +182,4 @@ postsStore      → Posts CRUD operations and list data
 
 ## VIDEO LINK LOOM
 https://www.loom.com/share/377d683f89794c54a8ea52ec86976371
+
