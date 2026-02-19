@@ -179,3 +179,6 @@ postsStore      → Posts CRUD operations and list data
 | `POST` | `/api/posts/{id}/publish` | Publish post |
 | `POST` | `/api/ai/summarize` | Generate AI summary |
 | `GET` | `/api/health` | Health check |
+
+## VIDEO LINK LOOM
+https://www.loom.com/share/377d683f89794c54a8ea52ec86976371
